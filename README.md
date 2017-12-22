@@ -26,7 +26,7 @@ Directory Structure
 
 ---README.md
 
----[Project_Report.pdf](Project_Report.pdf)
+---[Report.pdf](Report.pdf)
 
 ---[Literature Review.pdf](Literature Review.pdf)
 
