@@ -8,7 +8,7 @@ At the present stage this provides all the basic dimension that are important.
 
 The code was tested on Matlab 2017a.
 
-* Please refer to [Project_Report.pdf](Project_Report.pdf) for detailed analysis.
+* Please refer to [Report.pdf](Report.pdf) for detailed analysis.
 * Please refer to [lab.pdf](lab.pdf) for about the project.
 
 
