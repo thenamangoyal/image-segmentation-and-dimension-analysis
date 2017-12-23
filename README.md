@@ -22,6 +22,11 @@ Directory Structure
 	|---Find_Bound_Box.m
 	|---Calculate_Boundary.m
 ---[results](results)
+	|
+	|-[Active](Active)
+	|-[Inbuilt](Inbuilt)
+	|-[Lazy](Lazy)
+	|-[Morphological](Morphological)
 
 
 ---[lab.pdf](lab.pdf)
