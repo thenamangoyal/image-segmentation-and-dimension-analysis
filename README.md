@@ -10,7 +10,7 @@ The code was tested on Matlab 2017a.
 
 * Please refer to [Report.pdf](Report.pdf) for detailed analysis.
 * Please refer to [lab.pdf](lab.pdf) for about the project.
-* Please refer to [Results](Results) for segmentation results using various methods.
+* Please refer to [results](results) for segmentation results using various methods.
 
 
 Directory Structure
@@ -21,7 +21,7 @@ Directory Structure
 	|---RunAll.m
 	|---Find_Bound_Box.m
 	|---Calculate_Boundary.m
----[Results](Results)
+---[results](results)
 
 
 ---[lab.pdf](lab.pdf)
