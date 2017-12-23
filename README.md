@@ -16,13 +16,11 @@ The code was tested on Matlab 2017a.
 Directory Structure
 -------------------
 ---code
-
 	|
 	|---RunAll.m
 	|---Find_Bound_Box.m
 	|---Calculate_Boundary.m
 ---[results](results)
-
 	|
 	|---[Active](Active)
 	|---[Inbuilt](Inbuilt)
